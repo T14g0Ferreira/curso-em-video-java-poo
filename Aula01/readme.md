@@ -7,9 +7,9 @@ Objetos concretos:
     * caneta
     * computador
     
-Ementa do curso:
+Objetos abstratos:
 
+    * pessoa
     * video aula
-    * previsão do tempo
 
 
